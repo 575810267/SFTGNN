@@ -1,7 +1,8 @@
 # SFTGNN
-Official code repository of paper "Graph Neural Network for Crystal Property Prediction Based on Spherical Fourier Transform" by Zhen Jiang, Hua Tian and Haowei Feng.
+Official code repository of paper "Graph Neural Network for Crystal Property Prediction Based on Spherical Fourier Transform" by Zhen Jiang and Hua Tian.
 
-
+<br><img src="images/TOC.svg" alt="MP Dataset" width="500"/><br>
+<br><img src="images/Model.png" alt="MP Dataset" width="500"/><br>
 ### Benchmarked results
 - **The Material Project Dataset**
 <br><img src="images/table3_MP.jpeg" alt="MP Dataset" width="500"/><br>
